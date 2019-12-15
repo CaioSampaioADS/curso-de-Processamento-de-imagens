@@ -1,2 +1,2 @@
 # curso-de-Processamento-de-imagens
-Códigos do curso meu de processamento de imagens na Udemy
+Códigos do  meu curso de processamento de imagens na Udemy
